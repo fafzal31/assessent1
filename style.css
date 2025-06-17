@@ -1,0 +1,16 @@
+.Tier-1s{
+    color: red;
+}
+.Tier-2{
+    color: orange;
+}
+.Tier-3{
+    color: blueviolet;
+}
+h1{
+    color: rgb(184, 159, 122);
+}
+a{
+    color: rgb(161, 91, 0);
+    text-decoration: none
+}
